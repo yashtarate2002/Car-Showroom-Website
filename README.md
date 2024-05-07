@@ -18,7 +18,7 @@
 
 - ![React.js](https://img.icons8.com/color/48/000000/react-native.png) React.js
 - ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js
-- ![Express.js](https://img.icons8.com/color/48/000000/express.png) Express.js
+- ![Express.js](https://img.icons8.com/color/48/000000/express.png) Express.js 
 - ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB
 - ![Figma](https://img.icons8.com/color/48/000000/figma--v1.png) Figma
 - ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png) Tailwind CSS
